@@ -1,6 +1,6 @@
 {
-  "name": "DAJG Payslip",
-  "short_name": "DAJG Payslip",
+  "name": "DJAG Online Payslip Portal",
+  "short_name": "DJAG Payslip",
   "description": "Secure payslip access for staff of the Department of Justice & Attorney General, Papua New Guinea.",
   "start_url": "./index.html",
   "scope": "./",
@@ -9,8 +9,23 @@
   "background_color": "#0B0F1A",
   "theme_color": "#0B0F1A",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }

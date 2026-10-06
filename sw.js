@@ -1,5 +1,5 @@
-/* DAJG Payslip service worker */
-const SHELL = "dajg-shell-v2";
+/* DJAG Online Payslip Portal service worker */
+const SHELL = "djag-shell-v3";
 const DATA = "dajg-data-v2";
 const SHELL_FILES = [
   "./",
